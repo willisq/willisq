@@ -1,6 +1,15 @@
 ## Hi! 👋 I'm William Suarez!  
 
 ### Im physics and Web Developer with experience using Javascript, React, Nodejs, Expressjs, Nextsjs among others. 
+
+Main tech:
+
+Frontend: 
+
+<img width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+
+
 <!--
 **willisq/willisq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
