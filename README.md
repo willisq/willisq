@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi! 👋 I'm William Suarez!  
 
+### Im physics and Web Developer with experience using Javascript, React, Nodejs, Expressjs, Nextsjs among others. 
 <!--
 **willisq/willisq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
