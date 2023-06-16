@@ -16,9 +16,6 @@ Main tech:
 
  [<img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/williamsuarezdev/
 )
-
-![Metrics](https://metrics.lecoq.io/?template=classic&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=America%2FBogota)
-          
           
           
           
